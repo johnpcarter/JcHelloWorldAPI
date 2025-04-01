@@ -5,7 +5,14 @@
   <value name="node_subtype">restv2Descriptor</value>
   <value name="node_nsName">jc.helloworld:api</value>
   <value name="node_pkg">JcHelloWorldAPI</value>
+  <value name="node_comment"></value>
   <value name="is_public">false</value>
+  <value name="displayName"></value>
+  <value name="favorite"></value>
+  <value name="tags"></value>
+  <value name="since"></value>
+  <value name="deprecated"></value>
+  <value name="is_visible"></value>
   <null name="sourceUri"/>
   <null name="swaggerUrl"/>
   <Boolean name="modifiable">true</Boolean>
@@ -145,8 +152,8 @@
             <Boolean name="includeInRad">true</Boolean>
           </record>
           <record name="responses" javaclass="com.wm.util.Values">
-            <record name="200" javaclass="com.wm.util.Values">
-              <value name="statusCode">200</value>
+            <record name="201" javaclass="com.wm.util.Values">
+              <value name="statusCode">201</value>
               <value name="description">OK</value>
               <Boolean name="returnOutput">true</Boolean>
             </record>
