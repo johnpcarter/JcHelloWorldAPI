@@ -13,7 +13,7 @@
   <value name="listACL">Default</value>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build"></value>
+  <value name="build">55</value>
   <value name="description">Demo package to showcase how to build and expose a
 sample API over a secure HTTPS socket</value>
   <value name="created_date">24-01-2025 14:34:58 CET</value>
@@ -35,5 +35,8 @@ sample API over a secure HTTPS socket</value>
       <value name="value"></value>
     </record>
   </array>
-  <null name="target_server_version"/>
+  <value name="target_server_version">
+  11.1
+  </value>
+  
 </Values>
