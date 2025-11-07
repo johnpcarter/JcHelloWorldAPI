@@ -1,0 +1,4 @@
+source, qty, target
+EA, 1, CH
+MM, 10, CM
+CM, 100, M
